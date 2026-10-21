@@ -1,0 +1,404 @@
+[
+  {
+    "STL": "01_case.stl",
+    "triangles": 3508,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "02_couvercle.stl",
+    "triangles": 44,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "03_liaison_cases.stl",
+    "triangles": 692,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "04_pied_bas_gauche.stl",
+    "triangles": 1728,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "05_pied_haut_gauche.stl",
+    "triangles": 700,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "06_pied_bas_droit.stl",
+    "triangles": 1728,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "07_pied_haut_droit.stl",
+    "triangles": 700,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "08_eclisse_structure.stl",
+    "triangles": 692,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "09_colonne_140.stl",
+    "triangles": 3248,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "10_equerre_colonne.stl",
+    "triangles": 1380,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "11_console_Z_gauche.stl",
+    "triangles": 3138,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "11_console_Z_droite.stl",
+    "triangles": 1102,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "12_console_Z_gauche.stl",
+    "triangles": 4474,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "12_console_Z_droite.stl",
+    "triangles": 1078,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "13_retenue_roulement.stl",
+    "triangles": 1712,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "14_support_moteur_Z.stl",
+    "triangles": 3072,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "15_entretoise_36.stl",
+    "triangles": 672,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "16_chariot_Z_gauche.stl",
+    "triangles": 6560,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "17_chariot_Z_droit.stl",
+    "triangles": 6560,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "18_retenue_ecrou_M8.stl",
+    "triangles": 1712,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "19_support_moteur_X.stl",
+    "triangles": 2420,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "20_chariot_X.stl",
+    "triangles": 5116,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "21_platine_poussoir_avant.stl",
+    "triangles": 3092,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "22_longeron_poussoir.stl",
+    "triangles": 1504,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "23_longeron_poussoir.stl",
+    "triangles": 1504,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "24_eclisse_poussoir.stl",
+    "triangles": 692,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "25_platine_poussoir_arriere.stl",
+    "triangles": 5080,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "26_support_moteur_Y.stl",
+    "triangles": 3072,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "27_entretoise_38.stl",
+    "triangles": 672,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "28_chariot_poussoir.stl",
+    "triangles": 3744,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "29_tige_poussoir_avant.stl",
+    "triangles": 1388,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "30_tige_poussoir_arriere.stl",
+    "triangles": 2124,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "31_rampe_45deg.stl",
+    "triangles": 1432,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "32_panneau_avant.stl",
+    "triangles": 2052,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "33_panneau_lateral_1.stl",
+    "triangles": 2392,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "33_panneau_lateral_2.stl",
+    "triangles": 2392,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "33_panneau_lateral_3.stl",
+    "triangles": 1712,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "34_eclisse_panneaux.stl",
+    "triangles": 692,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "35_angle_goulotte.stl",
+    "triangles": 700,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "36_attache_goulotte.stl",
+    "triangles": 692,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "37_cale_3mm.stl",
+    "triangles": 672,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "38_bac_reception.stl",
+    "triangles": 2796,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "39_support_capteur_reglable.stl",
+    "triangles": 1396,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "40_attache_cable.stl",
+    "triangles": 708,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "41_test_alesages.stl",
+    "triangles": 3072,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "42_test_roulements.stl",
+    "triangles": 2716,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "43_liaison_socle.stl",
+    "triangles": 1532,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C1_R1.stl",
+    "triangles": 3588,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C1_R2.stl",
+    "triangles": 5204,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C1_R3.stl",
+    "triangles": 3852,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C1_R4.stl",
+    "triangles": 2764,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C1_R5.stl",
+    "triangles": 1916,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C2_R1.stl",
+    "triangles": 5044,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C2_R2.stl",
+    "triangles": 3084,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C2_R3.stl",
+    "triangles": 1916,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C2_R4.stl",
+    "triangles": 1916,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C2_R5.stl",
+    "triangles": 1916,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C3_R1.stl",
+    "triangles": 5044,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C3_R2.stl",
+    "triangles": 3084,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C3_R3.stl",
+    "triangles": 1916,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C3_R4.stl",
+    "triangles": 1916,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C3_R5.stl",
+    "triangles": 1916,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C4_R1.stl",
+    "triangles": 3588,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C4_R2.stl",
+    "triangles": 5204,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C4_R3.stl",
+    "triangles": 3852,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C4_R4.stl",
+    "triangles": 2764,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  },
+  {
+    "STL": "44_socle_C4_R5.stl",
+    "triangles": 1916,
+    "aretes_non_manifold": 0,
+    "dans_volume_A1_mini": true
+  }
+]

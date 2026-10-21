@@ -1,0 +1,19 @@
+{
+  "version": "0.3-Parallax",
+  "references_STL": 69,
+  "exemplaires": 222,
+  "solides_STEP_valides": 231,
+  "interfaces_servo": "Enveloppes nominales hypothétiques ; coupon et mesure réelle requis",
+  "essais_physiques": false,
+  "limites": [
+    "pas de calcul du couple ni de rigidité",
+    "palonnier réel à vérifier",
+    "visserie de fixation non représentée",
+    "capteurs non implantés",
+    "pas de simulation continue de mouvement"
+  ],
+  "maillages_STL_controles": 69,
+  "positions_controlees": 10,
+  "interferences_dans_positions_controlees": 0,
+  "STL_inchanges_identiques_V02": 62
+}

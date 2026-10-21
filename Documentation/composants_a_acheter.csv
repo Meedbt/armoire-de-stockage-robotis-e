@@ -1,0 +1,28 @@
+﻿composant;quantite;dimensions_nominales;remarque
+Servo à rotation continue;3;"Parallax 900-00008 ; 4 à 6 V ; trois exemplaires";"Mesurer corps, oreilles, décalage axe et distance palonnier-oreilles ; contrôler couple et courant sur le montage réel"
+Tige lisse Z;2;Diamètre 8 longueur 300;Droiture et parallélisme à contrôler
+Tige lisse X;2;Diamètre 8 longueur 345;À couper après montage à blanc
+Tige lisse Y;2;Diamètre 8 longueur 226;Blocage radial par vis M3 dans la platine arrière
+Tige filetée Z;1;M8 pas 1,25 longueur nominale 323;Longueur finale selon accouplement réel
+Tige filetée X;1;M8 pas 1,25 longueur nominale 365;Longueur finale selon accouplement réel
+Tige filetée Y;1;M8 pas 1,25 longueur nominale 246;Longueur finale selon accouplement réel
+Roulement;6;608 diamètre intérieur 8 extérieur 22 largeur 7;Tester le logement avant impression des chariots
+Écrou moteur;3;M8 DIN934 13 sur plats épaisseur 6,5;Un écrou captif par axe
+Écrou et contre-écrou axial;12;M8;Réglage axial des trois vis sans écraser les roulements
+Entretoise axiale métallique;12;Intérieur 8,2 extérieur 10 à 11 longueur environ 5;Repose sur la bague intérieure du 608 et dégage les retenues imprimées
+Palonnier compatible servo réel;3;"Disque ou croix avec au moins deux trous opposés au rayon 13 à 16 mm ; quatre préférables";"Réutiliser le palonnier avec sa vis centrale ; interface cannelée constructeur, pas imprimée. Pièce 45 remplace accouplement 5 vers 8"
+Vis de fixation moteurs;12;M3x16 avec rondelles larges et écrous;"Quatre par servo ; vérifier épaisseur réelle des oreilles et accessoires, ne pas écraser les oreilles"
+Vis de liaison du socle;62;M4x10 tête fraisée 90 degrés;Vissage par dessous dans les écrous captifs
+Vis support moteur X;2;M4x40;Vissage dans avant-trous du chariot gauche
+Vis support moteur Z;4;M4x65 plus rondelles et écrous;"Traverse platine 6 entretoise 44 console 8 ; vérifier engagement et saillie"
+Vis support moteur Y;4;M4x60 plus écrous;"Traverse platine 6 entretoise 40 platine 6 ; vérifier avec rondelles"
+Vis courantes M3;assortiment;Longueurs 10 12 16 20 avec écrous;Compter les assemblages dans le guide avant commande
+Vis courantes M4;assortiment;Longueurs 12 et 16 avec écrous;Fixation pieds rampes bacs et consoles
+Vis du joint de tige;2;M3x10 tête basse diamètre maximal 6 épaisseur maximale 2 plus écrous M3;Les têtes et écrous doivent rester dans le profil de la tige
+Capteurs de position (option à définir);8 envisagés;3 X + 3 Z + 2 Y pour repérage discret;"Non sélectionnés et non implantés ; limites complémentaires à définir. Alternative : encodeurs avec origines et limites"
+Capteur de passage;1;À choisir selon commande;Support universel fourni
+Commande et alimentation;à définir;"Alimentation régulée 4 à 6 V adaptée aux trois servos ; contrôleur à définir";"Dimensionner pour appels de courant en charge ; masse commune des signaux. Schéma et logiciel non inclus"
+Colliers de câble;assortiment;Largeur environ 3;Attaches imprimées fournies
+Écrous d’adaptateur 45;6;M8 DIN934 13 sur plats épaisseur 6,5;Un captif + un contre-écrou par axe, en supplément des écrous axiaux
+Boulons de palonnier;12;M2x8 et écrous M2, longueur à confirmer;"Quatre par axe si palonnier compatible ; assembler avant de visser la tige M8"
+Vis centrale de palonnier;3;Vis d’origine du servo;Ne pas substituer une vis métrique au hasard

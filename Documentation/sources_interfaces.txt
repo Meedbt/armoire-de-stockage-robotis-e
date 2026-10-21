@@ -1,0 +1,23 @@
+SOURCES DES INTERFACES — consultées le 20 octobre 2026
+
+Bambu Lab — A1 mini : volume nominal 180 × 180 × 180 mm.
+https://eu.store.bambulab.com/fr-fr/products/a1-mini
+
+Pololu — moteur NEMA17 de référence 2267 : enveloppe 42,3 × 42,3 × 38 mm, arbre 5 mm.
+https://www.pololu.com/product/2267
+
+HTA3D — interface NEMA17 : entraxe de trous 31 ± 0,1 mm.
+https://www.hta3d.com/en/nema-17-stepper-motor-17hs3401-42hs34-42-34-5mm-d-shaft
+
+Accu — écrou M8 DIN934 : 13 sur plats, épaisseur nominale 6,5.
+https://www.accu.co.uk/hexagon-nuts/766489-NUT930M8C
+https://www.accu.co.uk/hexagon-nuts/456466-HPN-M8-C8
+
+SKF — roulement 608 : 8 × 22 × 7 mm.
+https://docs.rs-online.com/9931/A700000008717780.pdf
+
+Autodesk — import STEP et absence d'historique paramétrique natif.
+https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-import-or-open-a-step-file-in-Autodesk-Fusion-360.html
+https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Imported-files-do-not-contain-timeline-features-in-Fusion-360.html
+
+Les autres dimensions du kit sont des choix de conception de prototype, pas des dimensions normatives ni des résultats de tests physiques. Les jeux d'impression doivent être calibrés sur votre matériel.

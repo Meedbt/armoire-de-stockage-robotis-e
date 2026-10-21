@@ -1,0 +1,70 @@
+﻿fichier;quantite;X_mm;Y_mm;Z_mm;volume_cm3;note
+01_case.stl;9;90.0;100.0;62.0;78.58;Fond sur plateau. Trou arrière : pont de 30 mm à examiner au tranchage. 9 exemplaires.
+02_couvercle.stl;9;90.0;100.0;7.0;27.64;"Imprimer face supérieure contre le plateau ; languettes vers le haut."
+03_liaison_cases.stl;8;40.0;12.0;4.0;1.85;"2 vis M3x12 + écrous par éclisse ; liaison entre rangées."
+04_pied_bas_gauche.stl;2;40.0;40.0;90.0;42.71;Deux exemplaires. Pied avec embase M4.
+05_pied_haut_gauche.stl;2;20.0;20.0;109.0;35.46;Deux exemplaires. Vis M3x12 entre oreille et case.
+06_pied_bas_droit.stl;2;40.0;40.0;90.0;42.71;Deux exemplaires.
+07_pied_haut_droit.stl;2;20.0;20.0;109.0;35.46;Deux exemplaires.
+08_eclisse_structure.stl;16;40.0;20.0;4.0;3.13;M3x10 dans avant-trous imprimés. Serrer modérément.
+09_colonne_140.stl;6;30.0;40.0;140.0;96.92;"Trois segments par colonne. Tube vertical ; quatre périmètres minimum à tester."
+10_equerre_colonne.stl;4;30.0;30.0;30.0;8.0;"Deux équerres par colonne. M4 au socle ; M3 avec écrous aux tubes."
+11_console_Z_droite.stl;1;95.0;115.0;30.0;77.57;"Console à fixer au tube avec une vis M4x16 ; trou du tube à finir à Ø4,5 si nécessaire."
+11_console_Z_gauche.stl;1;95.0;115.0;30.0;74.54;"Console à fixer au tube avec une vis M4x16 ; trou du tube à finir à Ø4,5 si nécessaire."
+12_console_Z_droite.stl;1;95.0;115.0;30.0;90.77;"Console à fixer au tube avec une vis M4x16 ; trou du tube à finir à Ø4,5 si nécessaire."
+12_console_Z_gauche.stl;1;95.0;115.0;30.0;87.23;"Console à fixer au tube avec une vis M4x16 ; trou du tube à finir à Ø4,5 si nécessaire."
+13_retenue_roulement.stl;5;30.0;30.0;3.0;2.19;"Retient la bague extérieure du 608 ; ne pas bloquer la bague intérieure."
+14_support_servo_Z.stl;1;90.0;80.0;6.0;37.01;"Parallax : oreille côté Z=484. Lumières M3 réglables ; vérifier le coupon 46 avant montage."
+15_entretoise_44.stl;4;12.0;12.0;44.0;4.28;Remplace la 15 V0.2. Quatre vis M4x65, longueur à vérifier selon rondelles.
+16_chariot_Z_gauche.stl;1;51.0;115.0;126.0;593.82;"Alésage vertical Ø8,5 à calibrer ; écrou M8 en haut ; logements 608 côté intérieur."
+17_chariot_Z_droit.stl;1;51.0;115.0;126.0;593.82;"Même guidage ; logement M8 vertical laissé vide."
+18_retenue_ecrou_M8.stl;3;30.0;30.0;3.0;2.41;"Écrou DIN934 13 sur plats, 6,5 épaisseur ; jeu prévu 0,4 sur plats."
+19_support_servo_X.stl;1;61.0;72.0;25.0;22.18;"Deux M4x40 vers le chariot. Servo sortant vers X négatif ; lumières M3."
+20_chariot_X.stl;1;115.0;95.0;56.0;322.0;"Deux alésages X Ø8,5 ; écrou M8 latéral ; roulement 608 pour le poussoir."
+21_platine_poussoir_avant.stl;1;68.0;74.0;6.0;24.39;Retient le 608 avant. Quatre M3x16 au chariot X.
+22_longeron_poussoir.stl;2;8.0;100.0;15.0;11.8;"Deux exemplaires, un de chaque côté ; jonction par éclisse."
+23_longeron_poussoir.stl;2;8.0;99.0;15.0;11.68;"Deux exemplaires, un de chaque côté ; jonction par éclisse."
+24_eclisse_poussoir.stl;2;15.0;40.0;4.0;2.33;Deux M3x20 et écrous par éclisse.
+25_platine_poussoir_arriere.stl;1;68.0;82.0;10.0;32.56;"Roulement 608 ; tiges Ø8 ; quatre entretoises moteur."
+26_support_servo_Y.stl;1;90.0;82.0;6.0;38.09;"Servo tourné vers le chariot ; oreilles à Y=452."
+27_entretoise_40.stl;4;12.0;12.0;40.0;3.89;"Quatre M4x60 avec rondelles et écrous ; vérifier le dépassement utile."
+28_chariot_poussoir.stl;1;46.0;72.0;20.0;61.52;Tester le glissement à la main avant de monter la vis.
+29_tige_poussoir_avant.stl;1;18.0;130.0;24.0;17.52;"Joint à mi-bois ; deux M3x10 à tête basse, écrous M3 noyés. Supports sous la languette."
+30_tige_poussoir_arriere.stl;1;30.0;130.0;36.0;21.74;Quatre M3x16 relient la bride au chariot Y.
+31_rampe_45deg.stl;3;134.0;110.0;90.0;85.61;"Trois modules ; imprimer sur une face latérale pour limiter les supports."
+32_panneau_avant.stl;6;90.0;140.0;3.0;37.64;Six panneaux, deux rangées. Imprimer à plat.
+33_panneau_lateral_1.stl;2;115.0;110.0;3.0;37.76;Un exemplaire par côté, assemblage en miroir.
+33_panneau_lateral_2.stl;2;115.0;110.0;3.0;37.76;Un exemplaire par côté, assemblage en miroir.
+33_panneau_lateral_3.stl;2;115.0;110.0;3.0;37.81;Un exemplaire par côté, assemblage en miroir.
+34_eclisse_panneaux.stl;19;40.0;12.0;4.0;1.85;"M3x12 + écrous ; les têtes restent à l’extérieur de la descente."
+35_angle_goulotte.stl;8;20.0;20.0;15.0;1.61;"Huit angles intérieurs ; M3x12 + écrous."
+36_attache_goulotte.stl;4;12.0;62.0;4.0;2.9;Deux attaches de chaque côté à Z=215 et 345.
+37_cale_3mm.stl;4;9.0;9.0;3.0;0.16;Compense le décalage entre paroi de goulotte et case.
+38_bac_reception.stl;3;49.0;100.0;90.0;62.75;"Trois bacs. Imprimer fond sur plateau après retournement/avec supports des pieds ; voir guide."
+39_support_capteur_reglable.stl;9;35.0;25.0;25.0;6.02;"Réserve de 9 supports : 3 positions X, 3 Z, 2 Y et passage boîte. Implantation et actionneurs à concevoir selon capteurs réels ; pas inclus dans assemblage."
+40_attache_cable.stl;6;20.0;12.0;6.0;1.14;"Six attaches pour colliers ; perçage pilote du support après cheminement des câbles."
+41_test_alesages.stl;1;110.0;35.0;12.0;42.3;"Rangée Ø8,2 à 8,6 de gauche à droite ; rangée Ø3,2 / 3,4 / 4,3 / 4,5. Tester avant les chariots."
+42_test_roulements.stl;1;110.0;35.0;10.0;26.42;Quatre logements : Ø22,1 / 22,2 / 22,3 / 22,4, profondeur 7,2.
+43_liaison_socle.stl;31;40.0;20.0;5.0;3.75;M4x10 à tête fraisée, vissées par dessous dans les écrous captifs des tuiles.
+44_socle_C1_R1.stl;1;100.0;140.0;6.0;46.49;Tuile colonne 1, rangée 1. Origine globale X=-65, Y=-210. Écrous M4 insérés dessous avant montage.
+44_socle_C1_R2.stl;1;100.0;140.0;6.0;48.73;Tuile colonne 1, rangée 2. Origine globale X=-65, Y=-70. Écrous M4 insérés dessous avant montage.
+44_socle_C1_R3.stl;1;100.0;140.0;6.0;46.2;Tuile colonne 1, rangée 3. Origine globale X=-65, Y=70. Écrous M4 insérés dessous avant montage.
+44_socle_C1_R4.stl;1;100.0;140.0;6.0;41.47;Tuile colonne 1, rangée 4. Origine globale X=-65, Y=210. Écrous M4 insérés dessous avant montage.
+44_socle_C1_R5.stl;1;100.0;140.0;6.0;36.95;Tuile colonne 1, rangée 5. Origine globale X=-65, Y=350. Écrous M4 insérés dessous avant montage.
+44_socle_C2_R1.stl;1;100.0;140.0;6.0;46.54;Tuile colonne 2, rangée 1. Origine globale X=35, Y=-210. Écrous M4 insérés dessous avant montage.
+44_socle_C2_R2.stl;1;100.0;140.0;6.0;41.85;Tuile colonne 2, rangée 2. Origine globale X=35, Y=-70. Écrous M4 insérés dessous avant montage.
+44_socle_C2_R3.stl;1;100.0;140.0;6.0;36.95;Tuile colonne 2, rangée 3. Origine globale X=35, Y=70. Écrous M4 insérés dessous avant montage.
+44_socle_C2_R4.stl;1;100.0;140.0;6.0;36.95;Tuile colonne 2, rangée 4. Origine globale X=35, Y=210. Écrous M4 insérés dessous avant montage.
+44_socle_C2_R5.stl;1;100.0;140.0;6.0;36.95;Tuile colonne 2, rangée 5. Origine globale X=35, Y=350. Écrous M4 insérés dessous avant montage.
+44_socle_C3_R1.stl;1;100.0;140.0;6.0;46.54;Tuile colonne 3, rangée 1. Origine globale X=135, Y=-210. Écrous M4 insérés dessous avant montage.
+44_socle_C3_R2.stl;1;100.0;140.0;6.0;41.85;Tuile colonne 3, rangée 2. Origine globale X=135, Y=-70. Écrous M4 insérés dessous avant montage.
+44_socle_C3_R3.stl;1;100.0;140.0;6.0;36.95;Tuile colonne 3, rangée 3. Origine globale X=135, Y=70. Écrous M4 insérés dessous avant montage.
+44_socle_C3_R4.stl;1;100.0;140.0;6.0;36.95;Tuile colonne 3, rangée 4. Origine globale X=135, Y=210. Écrous M4 insérés dessous avant montage.
+44_socle_C3_R5.stl;1;100.0;140.0;6.0;36.95;Tuile colonne 3, rangée 5. Origine globale X=135, Y=350. Écrous M4 insérés dessous avant montage.
+44_socle_C4_R1.stl;1;100.0;140.0;6.0;46.49;Tuile colonne 4, rangée 1. Origine globale X=235, Y=-210. Écrous M4 insérés dessous avant montage.
+44_socle_C4_R2.stl;1;100.0;140.0;6.0;48.73;Tuile colonne 4, rangée 2. Origine globale X=235, Y=-70. Écrous M4 insérés dessous avant montage.
+44_socle_C4_R3.stl;1;100.0;140.0;6.0;46.2;Tuile colonne 4, rangée 3. Origine globale X=235, Y=70. Écrous M4 insérés dessous avant montage.
+44_socle_C4_R4.stl;1;100.0;140.0;6.0;41.47;Tuile colonne 4, rangée 4. Origine globale X=235, Y=210. Écrous M4 insérés dessous avant montage.
+44_socle_C4_R5.stl;1;100.0;140.0;6.0;36.95;Tuile colonne 4, rangée 5. Origine globale X=235, Y=350. Écrous M4 insérés dessous avant montage.
+45_adaptateur_palonnier_M8.stl;3;38.0;38.0;22.0;7.96;"Palonnier réel requis : quatre trous au rayon 13 à 16 mm (ou au moins deux opposés), M2. Écrou M8 dans le logement puis contre-écrou extérieur. Bride sur plateau ; supports éventuels sous épaulement intérieur."
+46_coupon_fixation_servo.stl;1;67.0;34.0;6.0;7.86;À imprimer en premier. Tester corps, quatre oreilles, passage câble et décalage axe. Dimensions nominales ajustables dans generer.py.
