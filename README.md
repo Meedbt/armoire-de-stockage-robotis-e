@@ -29,16 +29,6 @@ La structure est imprimable par éléments sur une **Bambu Lab A1 mini**. Le mé
 | Impression | 67 références STL ; 213 exemplaires selon la nomenclature, accessoires et coupons compris |
 | CAO | Source CadQuery et assemblage STEP ouvrable dans Fusion |
 
-## Commencer
-
-1. Lire [les précautions avant impression](LIRE_AVANT_IMPRESSION.md) et le [guide de montage](Documentation/guide_montage.md).
-2. Ouvrir `CAO/assemblage_Fusion.step` dans Fusion pour inspecter l’assemblage. Il s’agit d’un import STEP, sans historique paramétrique natif Fusion.
-3. Vérifier les dimensions des composants réellement disponibles à l’aide de la [liste des achats](Documentation/composants_a_acheter.csv).
-4. Imprimer d’abord les coupons **41 / 42**, puis une case **01** et son couvercle **02**. Ajuster les jeux si nécessaire.
-5. Utiliser la [nomenclature d’impression](Documentation/nomenclature_impression.csv) pour les quantités et orientations. Les STL sont en **millimètres**.
-
-**Ne pas lancer toutes les pièces avant les premiers essais d’ajustement.** La compatibilité avec le volume d’impression ne garantit pas un tranchage sans supports ni une impression réussie.
-
 ## Fichiers
 
 | Dossier | Contenu |
