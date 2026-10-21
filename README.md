@@ -48,6 +48,4 @@ Le contrôle automatique du dépôt vérifie les STL binaires, leurs arêtes, le
 **Aucun firmware, schéma de câblage validé ni interface de commande fonctionnelle n’est inclus.** Ces étapes figurent dans la [feuille de route](ROADMAP.md).
 
 
-## Licence
 
-Aucune licence de réutilisation n’est définie dans cette version. L’équipe doit choisir une licence et préciser les auteurs avant de présenter le projet comme open source. Aucun fichier `LICENSE` n’a été ajouté automatiquement.
