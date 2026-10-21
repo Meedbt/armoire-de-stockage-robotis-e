@@ -47,31 +47,6 @@ Le contrôle automatique du dépôt vérifie les STL binaires, leurs arêtes, le
 
 **Aucun firmware, schéma de câblage validé ni interface de commande fonctionnelle n’est inclus.** Ces étapes figurent dans la [feuille de route](ROADMAP.md).
 
-## Vérifier / régénérer
-
-Le contrôle des fichiers ne nécessite que Python 3.12 :
-
-```sh
-python tools/check_release.py
-```
-
-Pour régénérer la géométrie, dans une copie de travail avec Python 3.12 :
-
-```sh
-python -m venv .venv
-# Activer .venv selon votre système, puis :
-python -m pip install -r requirements.txt
-python CAO/generer.py
-python tools/check_release.py
-```
-
-La régénération remplace les STL, la nomenclature et le STEP. Elle ne renouvelle pas les images ni les rapports de mouvement. Conserver une copie des fichiers livrés et inspecter les changements avant de les publier.
-
-## Participer et publier
-
-Voir [CONTRIBUTING.md](CONTRIBUTING.md) pour documenter les essais et [le guide de publication GitHub](Documentation/PUBLIER_SUR_GITHUB.md) pour mettre ce dossier en ligne.
-
-La conception et la documentation ont été préparées avec une assistance IA. Les choix mécaniques doivent être examinés et validés par l’équipe du projet.
 
 ## Licence
 
