@@ -3,6 +3,8 @@
 Armoire automatique de 9 cases (3 × 3) qui distribue des boîtes de médicaments de 50 × 60 × 20 mm.
 On choisit la case sur son téléphone, la machine va chercher la boîte et l'amène dans une trappe en bas à droite.
 
+**Voir le prototype en 3D dans le navigateur : https://armoireauto.netlify.app/**
+
 ![Vue avant](docs/images/v_avant.png)
 ![Vue arrière](docs/images/v_arriere.png)
 
@@ -28,7 +30,7 @@ Encombrement : environ 236 × 315 mm au sol.
 | `impression/stl_bambulab_a1mini/` | Pièces découpées pour un plateau de 180 × 180 mm (Bambu Lab A1 mini) |
 | `impression/plateaux_bambulab_a1mini/` | Plateaux `.3mf` prêts à trancher dans Bambu Studio |
 | `electronique/armoire_v5/` | Programme ESP32 (Arduino) : mouvements, stock, page web |
-| `docs/` | Visionneuse 3D (`visionneuse_3D.html`), nomenclature d'impression, liste d'achats |
+| `docs/` | Visionneuse 3D (`visionneuse_3D.html`, en ligne sur [armoireauto.netlify.app](https://armoireauto.netlify.app/)), nomenclature d'impression, liste d'achats |
 
 Les fichiers G-code ne sont pas dans le dépôt : ils dépendent de l'imprimante et se régénèrent à partir des STL.
 
