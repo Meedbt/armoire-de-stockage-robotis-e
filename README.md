@@ -43,6 +43,8 @@ Les fichiers G-code ne sont pas dans le dépôt : ils dépendent de l'imprimante
 
 ## Électronique
 
+![Schéma de câblage](docs/images/schema_cablage.png)
+
 | Élément | Choix |
 | --- | --- |
 | Carte | ESP32-WROOM-32 DevKit |
