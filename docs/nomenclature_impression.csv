@@ -1,0 +1,27 @@
+﻿fichier;piece;quantite;X_mm;Y_mm;Z_mm;volume_cm3;pose
+01_casier.stl;Casier 3 × 3 monobloc;1;176.0;89.0;70.0;168.9;normale
+02_pied_casier.stl;Pied du casier;2;70.0;70.0;18.0;28.9;normale
+03_nacelle.stl;Nacelle (reçoit la boîte);1;62.0;85.0;47.0;34.0;normale
+04_longeron_Z_avant_droit.stl;Longeron Z avant droit;1;48.0;142.0;31.5;35.6;normale
+04_longeron_Z_avant_gauche.stl;Longeron Z avant gauche;1;48.0;142.0;31.5;35.6;normale
+04_longeron_Z_arriere_droit.stl;Longeron Z arrière droit;1;26.0;132.5;31.5;23.7;normale
+04_longeron_Z_arriere_gauche.stl;Longeron Z arrière gauche;1;26.0;132.5;31.5;23.7;normale
+04_eclisse_longeron.stl;Éclisse de jonction des longerons;2;16.0;48.0;4.0;3.0;normale
+05_poutre_X_arriere.stl;Poutre X arrière (crémaillère du chariot);1;184.0;54.0;11.4;24.6;normale
+06_traverse_Z_avant.stl;Traverse avant du cadre Z (crémaillère nacelle);1;184.0;14.0;17.0;18.0;normale
+07_traverse_Z_arriere.stl;Traverse arrière du cadre Z (écrou T8);1;184.0;28.0;12.0;21.6;normale
+08_chariot_arriere.stl;Chariot arrière (poussoir);1;65.5;87.5;64.5;54.2;normale
+09_poussoir.stl;Poussoir à crémaillère;1;10.0;112.0;24.0;10.4;normale
+10_pignon_24.stl;Pignon 24 dents (X arrière, servo Z);2;39.0;39.0;13.5;11.1;normale
+11_pignon_16.stl;Pignon 16 dents (poussoir);1;36.0;36.0;12.0;6.1;normale
+12_pignon_m1_14.stl;Pignon m1 14 dents (nacelle);1;36.0;36.0;13.5;4.9;normale
+13_engrenage_T8.stl;Engrenage T8 + disque codeur;1;44.0;44.0;17.5;7.2;normale
+14_palier.stl;Palier bas de tige Z;4;28.0;28.0;12.0;5.5;normale
+15_palier_T8.stl;Palier bas de la vis T8;1;44.0;30.0;14.0;7.7;normale
+16_traverse_haute_arriere.stl;Traverse haute arrière;1;230.0;37.0;12.0;98.6;diagonale
+17_traverse_haute_avant.stl;Traverse haute avant;1;230.0;24.0;12.0;64.7;diagonale
+19_socle_servo_Z.stl;Socle du servo Z (sur la traverse haute);1;82.0;66.0;38.0;53.5;normale
+20_montant_droit.stl;Montant de façade droit;1;160.0;58.0;16.0;16.8;normale
+20_montant_gauche.stl;Montant de façade gauche;1;160.0;58.0;16.0;16.8;normale
+21_cadre_trappe.stl;Cadre de la trappe;1;76.0;66.0;3.4;5.3;normale
+22_coupon_essai.stl;Coupon d'essai;1;150.0;60.0;15.4;48.9;normale

@@ -1,0 +1,13 @@
+Armoire automatisée V5 - programme ESP32
+
+1. Installer l'IDE Arduino 2.
+2. Préférences > URL de gestionnaire de cartes :
+   https://espressif.github.io/arduino-esp32/package_esp32_index.json
+   puis Gestionnaire de cartes > "esp32" by Espressif Systems > Installer.
+3. Gestionnaire de bibliothèques > "ESP32Servo" (Kevin Harrington) > Installer.
+4. Ouvrir armoire_v5.ino (les 3 fichiers doivent rester dans le dossier armoire_v5).
+5. Outils > Type de carte > "ESP32 Dev Module", choisir le port, Téléverser.
+6. Téléphone : Wi-Fi "Armoire-V5", mot de passe "pharmacie5", ouvrir http://192.168.4.1
+   Code de gestion : 1234 (à changer dans config.h).
+
+Moniteur série à 115200 bauds : chaque étape y est affichée.

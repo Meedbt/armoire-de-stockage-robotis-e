@@ -1,0 +1,19 @@
+article;quantite;remarque
+Filament PLA 2,85 mm;1 bobine de 750 g;Format Ultimaker 2
+Servo Parallax 900-00008 (avec palonniers);4;X arrière, X nacelle, Z, poussoir
+Tige lisse Ø8 × 157 mm;4;Axe Z (coins)
+Tige lisse Ø8 × 186 mm;4;Rails X arrière et avant
+Roulement linéaire LM8UU;8;4 en Z, 2 chariot, 2 nacelle
+Vis trapézoïdale T8 pas 8 (4 filets) 250 mm + écrou laiton à bride;1;Couper à 205 mm
+Roulement 608;2;Haut et bas de la vis T8
+Contreplaqué 236 × 315 × 10 mm;1;Socle
+Plexiglas 3 mm 210 × 142 mm;1;Façade, trappe 64 × 54 à découper en bas à droite
+Capteur optique à fourche (fente 5 mm);3;Peignes X arrière et nacelle, codeur Z
+Micro-interrupteur de fin de course;4;Origines X arrière, X nacelle, Z, poussoir rentré
+Capteur de présence (barrière IR ou micro-interrupteur);1;Boîte dans la nacelle
+Arduino Uno ou Nano;1;Commande
+Alimentation régulée 6 V 3 A;1;Servos, masse commune avec l'Arduino
+Vis M3 8 à 20 mm + écrous;≈ 50;Assemblages et fixations servo
+Vis sans tête M3 × 6;8;Blocage des tiges et de l'engrenage T8
+Vis M2 × 8 + écrous;16;Palonniers sur pignons
+Vis à bois Ø4 × 16;≈ 36;Fixation sur le socle
